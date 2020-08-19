@@ -1,0 +1,1 @@
+document.querySelector('#hplogo img').classList.add('spinspin')
